@@ -267,6 +267,11 @@
     jiti "^1.14.0"
     windicss "^3.5.6"
 
+"@windicss/plugin-animations@^1.0.9":
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/@windicss/plugin-animations/-/plugin-animations-1.0.9.tgz#abd7c82d906ebd7d61cdc62a3019b60e8c57ca72"
+  integrity sha512-9WsQsPzLurkwV5zaMCwmylxfSHlQ1pPmzud4ysvMkMBRB7obub9ESmqlHefcCjEhatz/ZROi1U1XOuOPPUO1nA==
+
 "@windicss/plugin-utils@^1.8.8":
   version "1.8.8"
   resolved "https://registry.npmjs.org/@windicss/plugin-utils/-/plugin-utils-1.8.8.tgz"
